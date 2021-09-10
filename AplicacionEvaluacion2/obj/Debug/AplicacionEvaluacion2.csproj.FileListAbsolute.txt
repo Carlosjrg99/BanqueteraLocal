@@ -1,0 +1,10 @@
+D:\Archivos\Otros\Proyectos\INACAP\Visual Studio\Sumativa2\AplicacionEvaluacion2\bin\Debug\AplicacionEvaluacion2.exe.config
+D:\Archivos\Otros\Proyectos\INACAP\Visual Studio\Sumativa2\AplicacionEvaluacion2\bin\Debug\AplicacionEvaluacion2.exe
+D:\Archivos\Otros\Proyectos\INACAP\Visual Studio\Sumativa2\AplicacionEvaluacion2\bin\Debug\AplicacionEvaluacion2.pdb
+D:\Archivos\Otros\Proyectos\INACAP\Visual Studio\Sumativa2\AplicacionEvaluacion2\bin\Debug\ClasesEvaluacion2.dll
+D:\Archivos\Otros\Proyectos\INACAP\Visual Studio\Sumativa2\AplicacionEvaluacion2\bin\Debug\ClasesEvaluacion2.pdb
+D:\Archivos\Otros\Proyectos\INACAP\Visual Studio\Sumativa2\AplicacionEvaluacion2\obj\Debug\AplicacionEvaluacion2.csprojAssemblyReference.cache
+D:\Archivos\Otros\Proyectos\INACAP\Visual Studio\Sumativa2\AplicacionEvaluacion2\obj\Debug\AplicacionEvaluacion2.csproj.CoreCompileInputs.cache
+D:\Archivos\Otros\Proyectos\INACAP\Visual Studio\Sumativa2\AplicacionEvaluacion2\obj\Debug\AplicacionEvaluacion2.csproj.CopyComplete
+D:\Archivos\Otros\Proyectos\INACAP\Visual Studio\Sumativa2\AplicacionEvaluacion2\obj\Debug\AplicacionEvaluacion2.exe
+D:\Archivos\Otros\Proyectos\INACAP\Visual Studio\Sumativa2\AplicacionEvaluacion2\obj\Debug\AplicacionEvaluacion2.pdb
